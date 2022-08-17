@@ -87,7 +87,7 @@ class _HomeFragmentState extends State<HomeFragment> {
                       ),
                       const SizedBox(height: 16),
                       const Text(
-                        "copyright My Learning Flutter, this app has designed by :",
+                        "copyright Learning Flutter, this app has designed by :",
                         style: TextStyle(
                             fontWeight: FontWeight.w400,
                             color: Colors.black,
@@ -148,7 +148,7 @@ class _HomeFragmentState extends State<HomeFragment> {
                               "Okay",
                               style: TextStyle(
                                   color: Colors.white,
-                                  fontSize: 18,
+                                  fontSize: 17,
                                   fontWeight: FontWeight.bold),
                             ),
                           ),
@@ -171,7 +171,7 @@ class _HomeFragmentState extends State<HomeFragment> {
               icon: const Icon(
                 CupertinoIcons.arrow_turn_right_up,
                 color: Colors.black,
-                size: 25,
+                size: 23,
               ))
         ],
         backgroundColor: Colors.white,

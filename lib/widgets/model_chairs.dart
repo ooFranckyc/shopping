@@ -27,7 +27,7 @@ class ModelChairs extends StatelessWidget {
       padding: const EdgeInsets.symmetric(horizontal: 20),
       child: Container(
         width: double.infinity,
-        height: 210,
+        height: 220,
         alignment: Alignment.center,
         padding: const EdgeInsets.all(20),
         decoration: BoxDecoration(

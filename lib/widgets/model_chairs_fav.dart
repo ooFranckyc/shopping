@@ -30,7 +30,7 @@ class ModelChairsFavorite extends StatelessWidget {
       padding: const EdgeInsets.symmetric(horizontal: 20),
       child: Container(
         width: double.infinity,
-        height: 210,
+        height: 220,
         alignment: Alignment.center,
         padding: const EdgeInsets.all(20),
         decoration: BoxDecoration(
@@ -43,7 +43,7 @@ class ModelChairsFavorite extends StatelessWidget {
               children: [
                 Container(
                   width: 100,
-                  height: 100,
+                  height: 110,
                   alignment: Alignment.center,
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(12),
